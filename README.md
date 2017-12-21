@@ -1,5 +1,8 @@
 # Snarr
 
+[![Build Status](https://travis-ci.org/aastronautss/snarr-ruby.svg?branch=master)](https://travis-ci.org/aastronautss/snarr-ruby)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d37c0387b10117432d00/maintainability)](https://codeclimate.com/github/aastronautss/snarr-ruby/maintainability)
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/snarr`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
